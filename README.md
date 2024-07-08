@@ -24,6 +24,10 @@ Welcome to the JavaScript Concepts Repository! This repository contains examples
 18. [Hoisting](#hoisting)
 19. [Strict Mode](#strict-mode)
 20. [Callbacks](#callbacks)
+21. [Types of Functions](#types-of-functions)
+22. [Object-Oriented Programming (OOP) Concepts](#object-oriented-programming-oop-concepts)
+23. [Array Methods](#array-methods)
+24. [String Methods](#string-methods)
 
 ## Variables and Data Types
 
@@ -144,6 +148,30 @@ This example demonstrates how to use strict mode in JavaScript.
 This example demonstrates how to use callbacks in JavaScript.
 
 - [Example Code](callbacks.js)
+
+## Types of Functions
+
+This example demonstrates different types of functions in JavaScript, including anonymous, arrow, and higher-order functions.
+
+- [Example Code](types-of-functions.js)
+
+## Object-Oriented Programming (OOP) Concepts
+
+This example demonstrates OOP concepts in JavaScript, including classes, inheritance, and encapsulation.
+
+- [Example Code](oop-concepts.js)
+
+## Array Methods
+
+This example demonstrates various array methods in JavaScript.
+
+- [Example Code](array-methods.js)
+
+## String Methods
+
+This example demonstrates various string methods in JavaScript.
+
+- [Example Code](string-methods.js)
 
 ## Contributing
 
